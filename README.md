@@ -18,11 +18,16 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
-
+```
+#Program to swap two values.
+#Developed by: 
+#RegisterNumber:
+a = input()
+b = input()
+a, b = b, a
+print("Swapped values are:",a,b)
+```
+## OUPUT:
+![image](https://github.com/Darkwebnew/Swapping-two-values/assets/143114486/84edfdda-1961-4286-b526-3336b26aade3)
 ## RESULT:
 Thus the swapping of two values are successfully executed
-
-
-
